@@ -1,4 +1,4 @@
-# xcb-vulkan
+# xcb-vulkan-template
 An XCB template with vulkan
 ## Build
  * clang
