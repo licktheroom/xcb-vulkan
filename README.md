@@ -1,5 +1,5 @@
 # xcb-vulkan-template
-An XCB template with vulkan
+A window creation template with xcb and vulkan
 ## Build
  * clang
  * Vulkan development files
