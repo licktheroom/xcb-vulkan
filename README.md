@@ -2,6 +2,7 @@
 A window creation template with xcb and vulkan
 ## Build
  * clang
+ * glslc
  * Vulkan development files
  * XCB developmet files
  * make
