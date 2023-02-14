@@ -351,7 +351,7 @@ input(void)
                 int new_height = 
                             (*(xcb_configure_notify_event_t *)event).height;
                 
-                if(new_height != game.window.width ||
+                if(new_width != game.window.width ||
                    new_height != game.window.height) {
 
                     game.window.width = new_width;
